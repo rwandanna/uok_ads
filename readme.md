@@ -1,4 +1,4 @@
-# Exam-Ready Study Guide
+# CAT-Ready Study Guide
 
 **Distributed Systems · Systems Integration · Enterprise Systems Architecture · Cloud Computing · Data Warehousing & OLAP · Business Intelligence**
 
